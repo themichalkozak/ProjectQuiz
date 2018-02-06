@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Quiz</string>
     <string name="sex_text_view">sex</string>
-    <string name="level_of_coking_text_view">Chose hero</string>
+    <string name="level_of_coking_text_view">Choose hero</string>
     <string name="dishwasher_text_view">Dishwasher</string>
     <string name="cook_text_view">Cook</string>
     <string name="chef_text_view">Chef</string>
